@@ -6,7 +6,7 @@ How do you write programs that are maintainable, readable, and adaptable? Especi
 
 
 
-    1. The key to writing programs for  is to take my time on them. I want to make sure my code is neat and well commentted so that even someone who is tech illiterate can get a grasp on my code. Having a clear idea of what I'm trying to program and using best practices for all of my code makes it easier for me to figure out what I'm trying to program and for others to read it. The CRUD operations are already having an impact on my programming in a seperate programming class where it had me implement CRUD operations in an SQLite database for an Android Studio app.
+1. The key to writing programs for  is to take my time on them. I want to make sure my code is neat and well commentted so that even someone who is tech illiterate can get a grasp on my code. Having a clear idea of what I'm trying to program and using best practices for all of my code makes it easier for me to figure out what I'm trying to program and for others to read it. The CRUD operations are already having an impact on my programming in a seperate programming class where it had me implement CRUD operations in an SQLite database for an Android Studio app.
    
 How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
 
