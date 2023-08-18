@@ -13,9 +13,10 @@ How do you approach a problem as a computer scientist? Consider how you approach
 
 
 2. When I come across a massive problem as a computer scientist, I know that eventually it will be solved because there are other people who have been in those very same shoes before and its only a matter of time before I figure it out too. Lots of things in life just come down to how hard you work at something and how many hours you're willing to put into something which in this case is a problem. The biggest struggle I had for this project was creating my Pie Chart and it honestly took me over 4 hours just to make a simple pie chart. Eventually, I realized I just have to take it one step at a time and I was able to figure out what I was doing wrong.
+
+
    
 What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
-
 
 
 3. Computer Scientists do many things that contribute massively to our society and technology. To name just a few things, Software Developement, AI, Cybersecurity, and Databases are all powered by Computer Scientists and are essensial for any major bussiness. My work on this project in particular was almost all database related for a fictional company Grazioso Salvare. Using tools like MongoDB, I was able to create CRUD operations for their database, a visual dashboard and geo location map, and a pie chart along with search funtionalities for specific types of rescue animals that are used for saving lives. People who work at Grazioso Salvare are now able to view their database in a completely different way and can easily find what they're looking for now.
